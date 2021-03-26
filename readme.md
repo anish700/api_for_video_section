@@ -1,6 +1,6 @@
 # TV API
 
-> Backend api for a video section in clinnik app
+> Backend api for a video section 
 
 ## Install Dependencies
 
