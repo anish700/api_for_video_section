@@ -1,6 +1,6 @@
 # TV API
 
-> Backend api for a video section 
+> Backend api for adding a video section in your existing application
 
 ## Install Dependencies
 
